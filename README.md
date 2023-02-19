@@ -1,1 +1,5 @@
 # IOT-BASED-SOLAR-PANEL-CLEANING-SYSTEM
+
+## HEADING
+
+![1672063851614](https://user-images.githubusercontent.com/124425596/219942983-caa17230-dba8-43ed-8773-60f0eb797e2e.jpg)
